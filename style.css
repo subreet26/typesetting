@@ -103,7 +103,7 @@
   a[href^="http"]::after {
     content: '';
     display: inline-block;
-    background: url('/Users/subre/Downloads/typesetting/external-link-52.png') no-repeat center center;
+    background: url('external-link-52.png') no-repeat center center;
     width: 0.8rem;  
     height: 0.8rem; 
     background-size: contain; 
