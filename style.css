@@ -97,7 +97,7 @@
 
   a[href^="http"] {
     position: relative;  
-    padding-right: 1rem; 
+    padding-right: 1.1rem; 
   }
   
   a[href^="http"]::after {
